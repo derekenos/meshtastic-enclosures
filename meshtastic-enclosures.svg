@@ -7,7 +7,7 @@
    viewBox="0 0 235.90331 232.20852"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.3 (1:1.4.3+202512261034+0d15f75042)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="meshtastic-enclosures.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,16 +23,17 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="337.28993"
-     inkscape:cy="503.10647"
-     inkscape:window-width="2560"
-     inkscape:window-height="1422"
-     inkscape:window-x="2256"
-     inkscape:window-y="0"
+     inkscape:zoom="1.1567079"
+     inkscape:cx="264.54388"
+     inkscape:cy="542.05559"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g485"
-     showgrid="false" />
+     inkscape:current-layer="svg1"
+     showgrid="false"
+     inkscape:pageshadow="2" />
   <defs
      id="defs1" />
   <g
@@ -3176,7 +3177,7 @@
      inkscape:groupmode="layer"
      id="g317"
      inkscape:label="Heltec T114 Components"
-     style="display:none"
+     style="display:inline"
      transform="translate(14.472,-15.73)">
     <rect
        style="display:inline;fill:none;stroke:none;stroke-width:0.000999999"
@@ -4473,7 +4474,7 @@
      inkscape:groupmode="layer"
      id="g485"
      inkscape:label="Heltec T114 Final Cutsheet"
-     style="display:inline"
+     style="display:none"
      transform="translate(14.472,-15.73)">
     <text
        xml:space="preserve"
@@ -4483,7 +4484,7 @@
        id="text315-1"><tspan
          sodipodi:role="line"
          id="tspan315-5"
-         style="stroke-width:0.001;stroke:#ff0000;stroke-opacity:1"
+         style="stroke:#ff0000;stroke-width:0.001;stroke-opacity:1"
          x="87.188385"
          y="168.6188" /></text>
     <g
@@ -4518,7 +4519,7 @@
         <path
            id="path277-4"
            style="display:inline;fill:none;stroke:#000000;stroke-width:0.001;stroke-opacity:1"
-           d="m 149.16556,173.60874 h -3.00034 V 153.0286 h 3.00034 m 0,-4.9997 h -3.00034 v -1.50017 l -13.49995,0 v 9.30176 h 8.50026 v 14.9996 h -8.50026 v 9.30176 h 13.49995 v -1.5229 h 3.00034"
+           d="m 149.16556,173.60874 h -3.00034 V 153.0286 h 3.00034 m 0,-4.9997 h -3.00034 v -1.50017 h -13.49995 v 9.30176 h 8.50026 v 14.9996 h -8.50026 v 9.30176 h 13.49995 v -1.5229 h 3.00034"
            sodipodi:nodetypes="cccccccccccccccc" />
       </g>
       <g
@@ -4924,4 +4925,84 @@
        x="107.17888"
        y="236.72778" />
   </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 69.850253,164.66691 99.750151,140.72216"
+     id="path1805" />
+  <text
+     xml:space="preserve"
+     style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+     x="96.143616"
+     y="133.04417"
+     id="text3085"><tspan
+       sodipodi:role="line"
+       id="tspan3083"
+       style="font-size:4.23333px;stroke-width:0.264583"
+       x="96.143616"
+       y="133.04417">Move this left</tspan><tspan
+       sodipodi:role="line"
+       style="font-size:4.23333px;stroke-width:0.264583"
+       x="96.143616"
+       y="138.33583"
+       id="tspan3219">even more?</tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 110.95251,172.09892 133.14154,142.9672"
+     id="path6770" />
+  <text
+     xml:space="preserve"
+     style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+     x="126.21978"
+     y="135.63347"
+     id="text6856"><tspan
+       sodipodi:role="line"
+       style="font-size:4.23333px;stroke-width:0.264583"
+       x="126.21978"
+       y="135.63347"
+       id="tspan6854">Or move this</tspan><tspan
+       sodipodi:role="line"
+       style="font-size:4.23333px;stroke-width:0.264583"
+       x="126.21978"
+       y="140.92513"
+       id="tspan6882">right more?</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+     x="34.888203"
+     y="135.51883"
+     id="text8044"><tspan
+       sodipodi:role="line"
+       id="tspan8042"
+       style="font-size:6.35px;stroke-width:0.264583"
+       x="34.888203"
+       y="135.51883">Screen frame fit</tspan><tspan
+       sodipodi:role="line"
+       style="font-size:6.35px;stroke-width:0.264583"
+       x="34.888203"
+       y="143.45633"
+       id="tspan17521">is too tight on ends</tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 150.93655,196.68042 -5.30076,9.00533"
+     id="path10474" />
+  <text
+     xml:space="preserve"
+     style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+     x="132.20221"
+     y="210.61298"
+     id="text12216"><tspan
+       sodipodi:role="line"
+       style="font-size:4.93889px;stroke-width:0.264583"
+       x="132.20221"
+       y="210.61298"
+       id="tspan12218">Need to increase this slightly,</tspan><tspan
+       sodipodi:role="line"
+       style="font-size:4.93889px;stroke-width:0.264583"
+       x="132.20221"
+       y="216.78659"
+       id="tspan13674">board sandwich is too tight.</tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 148.499,118.16534 9.00033,2.45966 -5.34771,-1.46509 10.23478,84.72856"
+     id="path15733" />
 </svg>
